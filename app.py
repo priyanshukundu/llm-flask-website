@@ -9,7 +9,7 @@ load_dotenv()
 # Initialize Azure OpenAI client
 client = AzureOpenAI(
     api_key='your_api_key',
-    api_version="your_api_version",
+    api_version="2024-02-01",
     azure_endpoint='https://mbuaiplayground.openai.azure.com/'
 )
 

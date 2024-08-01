@@ -81,6 +81,5 @@ Contributing
 We welcome contributions to improve the project. If you have suggestions or enhancements, please fork the repository and create a pull request with your changes. Ensure that your changes are well-documented and tested.
 
 License
-This project is licensed under the MIT License. You can freely use, modify, and distribute this software. See the LICENSE file for more details.
+FREE TO USE : )
 
-This expanded README provides a thorough overview of the project, including installation, usage, file descriptions, and contributing guidelines, making it well-suited for review by a resume shortlister.

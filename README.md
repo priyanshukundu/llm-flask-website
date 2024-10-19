@@ -81,5 +81,5 @@ Contributing
 We welcome contributions to improve the project. If you have suggestions or enhancements, please fork the repository and create a pull request with your changes. Ensure that your changes are well-documented and tested.
 
 License
-FREE TO USE : )      pls prefer using correct versions of components to prevent errors 
+FREE TO USE : )      
 

@@ -80,6 +80,6 @@ styles.css: This CSS file styles the chatbot’s web interface, providing a user
 Contributing
 We welcome contributions to improve the project. If you have suggestions or enhancements, please fork the repository and create a pull request with your changes. Ensure that your changes are well-documented and tested.
 
-License
+License .
 FREE TO USE : )      
 

@@ -1,5 +1,5 @@
 Flask Chatbot Project
-This project is a web-based chatbot built using Flask, designed to interact with users through a simple and intuitive interface. The chatbot utilizes Azure OpenAI for generating intelligent responses to user queries.
+This project is a web-based chatbot built using Flask, designed to interact with users through a simple and intuitive interface. The chatbot utilizes Azure OpenAI for generating intelligent responses to user queries..
 
 Project Overview
 The project consists of the following files:

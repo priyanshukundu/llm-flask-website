@@ -68,7 +68,7 @@ llm-flask-website/
 ├── code.py
 ├── requirements.txt
 └── README.md
-File Descriptions
+File Descriptions .
 app.py: This file contains the Flask application setup, including route definitions and communication with the Azure OpenAI service. It handles user requests and sends them to Azure OpenAI for generating responses.
 
 code.py: This script provides a command-line interface for interacting with the chatbot. It demonstrates how to send user queries to Azure OpenAI and display the responses.

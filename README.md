@@ -48,7 +48,7 @@ Copy code
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Start the Flask Application:
 
-bash
+bash 
 Copy code
 python app.py
 Access the Chatbot:
@@ -81,5 +81,5 @@ Contributing
 We welcome contributions to improve the project. If you have suggestions or enhancements, please fork the repository and create a pull request with your changes. Ensure that your changes are well-documented and tested.
 
 License .
-FREE TO USE : )       
+FREE TO USE : )       .
 

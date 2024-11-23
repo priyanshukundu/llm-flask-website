@@ -57,7 +57,7 @@ Open your web browser and navigate to http://127.0.0.1:5000 to start interacting
 Project Structure
 Here's a brief overview of the project structure:
 
-arduino
+..
 Copy code
 llm-flask-website/
 ├── static/
